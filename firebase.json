@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "‪D:\\Angular\\MyCRUDapp",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

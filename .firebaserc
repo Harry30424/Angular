@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-crud-app-63c3f": {
+      "hosting": {
+        "MyCRUDapp": [
+          "my-crud-app-63c3f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-crud-app-63c3f"
+  }
+}
